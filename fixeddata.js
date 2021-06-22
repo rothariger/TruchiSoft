@@ -1,5 +1,5 @@
 
-let fixedData = [{
+var fixedData = [{
   "IdProposal": 5214,
   "Modality": "Curso presencial - Curso empresa",
   "Presentation": "Afiche",
